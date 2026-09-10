@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+
+.input-design{
+  padding: 8px;
+  background-color: white;
+  border-radius: 8px;
+  color: black;
+   
+}
