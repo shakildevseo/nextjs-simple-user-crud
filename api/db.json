@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "firstname": "Md Shakil ",
+      "lastname": "Hossain",
+      "email": "shakiltest@gmail.com",
+      "password": "Shuosd65841@#",
+      "id": "S12Y3Hm85Sw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
